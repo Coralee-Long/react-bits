@@ -1,0 +1,18 @@
+.hero-floor {
+  width: 100vw; /* 100% of the viewport width */
+  height: 100vh; /* 100% of the viewport height */
+  background-color: black; /* Set background color to black */
+
+  /* Additional styles, if necessary */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.floor-container {
+  border: 3px solid lime;
+  height: 100%;
+  width: 100%;
+
+  
+}

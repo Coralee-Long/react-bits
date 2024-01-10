@@ -1,0 +1,11 @@
+.banner-container {
+  height: 60vh;
+  margin: 2rem;
+  background-color: #ff0000;
+  border-radius: 15px;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+
+.banner-content {
+  padding: 2rem;
+}
