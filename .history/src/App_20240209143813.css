@@ -1,0 +1,21 @@
+/* .App {
+} */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Use 100vh to make the container fill the screen */
+}
+
+main {
+  flex-grow: 1; /* Allows the main content to expand and fill the available space */
+}
+
+
+header {
+  background-color: aquamarine;
+}
+
+footer {
+  height: 50px; /* Or whatever height you prefer */
+}
